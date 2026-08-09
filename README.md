@@ -1,5 +1,7 @@
 # Use Case: DevOps / SRE Assistant
 
+**YouTube walkthrough:** [Devops Sre Assistant — System Design #Shorts](https://youtu.be/FeXLIlbwWjs)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -46,6 +48,9 @@ Observe (metrics/logs) → propose change
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Devops Sre Assistant — System Design #Shorts](https://youtu.be/FeXLIlbwWjs)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
